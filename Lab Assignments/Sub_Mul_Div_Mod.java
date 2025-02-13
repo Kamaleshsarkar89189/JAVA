@@ -1,4 +1,4 @@
-public class Sub_Mul_Div {
+public class Sub_Mul_Div_Mod {
     public static void main(String[] args) {
         int a = 15;
         int b =8;

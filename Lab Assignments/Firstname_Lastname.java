@@ -3,6 +3,7 @@ public class Firstname_Lastname {
         String Firstname = "Kamalesh";
         String Lastname = "Sarkar";
 
-        System.out.println("First name is: "+Firstname+"\nLastname is :"+Lastname);
+
+        System.out.println("The full name is: "+Firstname+" "+Lastname);
     }
 }
